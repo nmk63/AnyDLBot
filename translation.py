@@ -1,6 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hi {fullname} welcome 
-© @AnyDLBot"""
+    START_TEXT = """Hi welcome """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "what you want!"
